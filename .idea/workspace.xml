@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1xLm2Ss1jEoKv5cxM1oIViXIvY1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630142535886</updated>
       <workItem from="1630142537328" duration="1034000" />
-      <workItem from="1630143624647" duration="2048000" />
+      <workItem from="1630143624647" duration="2350000" />
     </task>
     <servers />
   </component>
@@ -74,6 +78,10 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="256" y="49" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1630143591775" />
+    <state x="673" y="449" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1630145870675">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="673" y="449" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1630145870675" />
     <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1630145294725">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
