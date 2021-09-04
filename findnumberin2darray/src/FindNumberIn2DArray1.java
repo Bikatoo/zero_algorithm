@@ -9,6 +9,7 @@ public class FindNumberIn2DArray1 {
                 }
             }
         }
+
         return false;
     }
 }
