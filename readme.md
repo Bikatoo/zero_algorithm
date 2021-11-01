@@ -18,4 +18,7 @@
 > 2021.08.31
 >> findrepeatnumber [数组中重复的数字](https://github.com/Bikatoo/zero_algorithm/tree/master/findrepeatnumber)   
 >> searchinsortedlist [在排序数组中查找数字I](https://github.com/Bikatoo/zero_algorithm/tree/master/searchinsortedlist)   
->> missingnumber [0～n-1中缺失的数字](https://github.com/Bikatoo/zero_algorithm/tree/master/missingnumber)   
+>> missingnumber [0～n-1中缺失的数字](https://github.com/Bikatoo/zero_algorithm/tree/master/missingnumber)
+
+> 2021.11.01
+>> inordertraversal [二叉树的中序遍历](https://github.com/Bikatoo/zero_algorithm/tree/master/inordertraversal)
