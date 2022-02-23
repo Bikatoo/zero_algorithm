@@ -23,3 +23,6 @@
 > 2021.11.01
 >> inordertraversal [二叉树的中序遍历](https://github.com/Bikatoo/zero_algorithm/tree/master/inordertraversal)   
 >> maxdepth [二叉树的最大深度](https://github.com/Bikatoo/zero_algorithm/tree/master/maxdepth)   
+
+> 2021.11.06   
+>> inverttree [翻转二叉树](https://github.com/Bikatoo/zero_algorithm/tree/master/inverttree)   
