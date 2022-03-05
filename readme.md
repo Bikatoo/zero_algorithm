@@ -32,3 +32,6 @@
 
 > 2022.02.24    
 >> kthlargest【递归】 [二叉搜索树的第k大节点](https://github.com/Bikatoo/zero_algorithm/tree/master/kthlargest)    
+
+> 2022.03.05
+>> findluslength【阅读题】 [最长特殊序列 Ⅰ](https://github.com/Bikatoo/zero_algorithm/tree/master/findluslength)    
