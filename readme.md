@@ -40,3 +40,6 @@
 >> issymmetric【递归】 [对称二叉树](https://github.com/Bikatoo/zero_algorithm/tree/master/issymmetric)    
 >> bank【模拟】 [简易银行系统](https://github.com/Bikatoo/zero_algorithm/tree/master/bank)      
 >> subsets [子集](https://github.com/Bikatoo/zero_algorithm/tree/master/subsets)    
+
+> 2022.03.19
+>> buildarray【模拟】[基于排列构建数组](https://github.com/Bikatoo/zero_algorithm/tree/master/buildarray)    
